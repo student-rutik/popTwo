@@ -1,0 +1,38 @@
+[
+    {
+        "img":"https://t3.ftcdn.net/jpg/01/08/78/82/240_F_108788212_wJw3WkAuKt4pstFveRvrcI5tozcUk8KW.jpg",
+        "name":"tomato",
+        "price":"2.22",
+        "data-name":"p-1"
+    },
+    {
+        "img":"https://t4.ftcdn.net/jpg/02/23/01/77/240_F_223017721_H7qO77055R3ibEA9fotEmhclcXM9bXHj.jpg",
+        "name":"okra",
+        "price":"3.22",
+        "data-name":"p-2" 
+    },
+    {
+        "img":"https://img.freepik.com/free-photo/side-view-basket-full-red-onions-wooden-background_141793-5655.jpg?size=626&ext=jpg&ga=GA1.1.1842581937.1703348153&semt=sph",
+        "name":"onion",
+        "price":"8.22",
+        "data-name":"p-3"
+    },
+    {
+        "img":"https://img.freepik.com/free-photo/basket-white-potatoes_1268-25051.jpg?size=626&ext=jpg&ga=GA1.1.1842581937.1703348153&semt=sph" ,
+        "name":"tomato",
+        "price":"2.22",
+        "data-name":"p-4"
+    },
+    {
+        "img":"https://img.freepik.com/free-photo/basket-full-vegetables_1112-316.jpg?size=626&ext=jpg&ga=GA1.1.1842581937.1703348153&semt=sph",
+        "name":"tomato",
+        "price":"9.22",
+        "data-name":"p-5"
+    },
+    {
+        "img":"https://t4.ftcdn.net/jpg/00/10/34/37/240_F_10343740_3W3izpz69cqamcyyKthcEoCCgP5r77i0.jpg",
+        "name":"brocilli",
+        "price":"7.22",
+        "data-name":"p-6"
+    }
+]
